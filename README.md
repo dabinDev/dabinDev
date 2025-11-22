@@ -21,7 +21,7 @@ Beyond mobile dev, I explore **Python** for automation and game development, and
 
 *   🔭 I’m currently working on **Flutter & HarmonyOS integration**.
 *   🌱 I’m currently learning **AI Agents & Edge Computing**.
-*   ⚡ Fun fact: I can build a Snake game in Python in under 10 minutes!
+*   ⚡ Fun fact: **There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.**
 
 <br/>
 
