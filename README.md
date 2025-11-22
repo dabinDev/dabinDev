@@ -8,7 +8,7 @@
   
   <br/>
   
-  ![Visitor Count](https://profile-counter.glitch.me/dabinDev/count.svg)
+  ![Profile Views](https://komarev.com/ghpvc/?username=dabinDev&color=00d9ff&style=for-the-badge&label=Profile+Views)
   
 </div>
 
@@ -42,7 +42,7 @@ Beyond mobile dev, I explore **Python** for automation and game development, and
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dabinDev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dabinDev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="90%" alt="Trophy" />
 </div>
 
 <br/>
